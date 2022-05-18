@@ -1,0 +1,123 @@
+{
+  "articles": [
+    {
+      "title": "My First Article",
+      "content": "Hello World",
+      "author": "Orangefire",
+      "date": "Wed May 18 2022 10:35:09 GMT+0200 (Central European Summer Time)",
+      "id": 1
+    },
+    {
+      "title": "Angular component",
+      "content": "Angular component looks awesome!",
+      "author": "Orangefire",
+      "date": "Wed May 18 2022 10:25:09 GMT+0200 (Central European Summer Time)",
+      "id": 2
+    },
+    {
+      "title": "Angular service",
+      "content": "I read something about angular service, i will try it soon",
+      "author": "Orangefire",
+      "date": "Wed May 18 2022 10:15:09 GMT+0200 (Central European Summer Time)",
+      "id": 3
+    },
+    {
+      "title": "Fake Title",
+      "content": "JOOOOOOOOOOOOE MAMA",
+      "author": "IS ME LEANDRE FEAT REMY",
+      "date": "Wed May 18 2022 10:05:09 GMT+0200 (Central European Summer Time)",
+      "id": 4
+    },
+    {
+      "title": "zzzzzzzzzzFake Title",
+      "content": "jjjjjjjjj",
+      "author": "zzzzzzz",
+      "date": "Wed May 18 2022 09:55:09 GMT+0200 (Central European Summer Time)",
+      "id": 5
+    },
+    {
+      "title": "Fake Title",
+      "content": "jjjjjjj",
+      "author": "kkkkkkkkkkkkk",
+      "date": "Wed May 18 2022 10:55:09 GMT+0200 (Central European Summer Time)",
+      "id": 6
+    },
+    {
+      "title": "Real title",
+      "content": "sunglasses emoji",
+      "author": "leandre",
+      "date": "Wed May 18 2022 10:45:09 GMT+0200 (Central European Summer Time)",
+      "id": 7
+    },
+    {
+      "title": "we need articles",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:33 GMT+0200 (Central European Summer Time)",
+      "id": 8
+    },
+    {
+      "title": "we need articless",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:39 GMT+0200 (Central European Summer Time)",
+      "id": 9
+    },
+    {
+      "title": "we need articlesss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:42 GMT+0200 (Central European Summer Time)",
+      "id": 10
+    },
+    {
+      "title": "we need articlessss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:44 GMT+0200 (Central European Summer Time)",
+      "id": 11
+    },
+    {
+      "title": "we need articlesssss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:46 GMT+0200 (Central European Summer Time)",
+      "id": 12
+    },
+    {
+      "title": "we need articlessssss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:48 GMT+0200 (Central European Summer Time)",
+      "id": 13
+    },
+    {
+      "title": "we need articlesssssss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:50 GMT+0200 (Central European Summer Time)",
+      "id": 14
+    },
+    {
+      "title": "we need articlessssssss",
+      "content": "aaaaaa",
+      "author": "leandre",
+      "date": "Wed May 18 2022 11:04:52 GMT+0200 (Central European Summer Time)",
+      "id": 15
+    }
+  ],
+  "authors": [
+    {
+      "name": "leandre",
+      "descripttion": "he is very handsome and has always something on his mind :flushed_emoji:"
+    },
+    {
+      "name": "kkkkkkkkkkkkk",
+      "description": "dont ask questions you when you dont want the answers"
+    },
+    {
+      "name": "Orangefire",
+      "description": "behold"
+    }
+  ]
+}
