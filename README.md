@@ -12,8 +12,8 @@ Run `json-server --watch db.json`
 
 
 ## People that helped me through this project
-Et dédicace aux cavaliers de l'apocalypse, qui m'ont aidé sur pas mal de sujets :
-Tom Mansion sur la barre de recherche  
-Rémy Chagnas & Sophie Nguyen sur le fonctionnement des subscribe
+And thanks to the horsemen of the apocalypse !  
+They helped me on many subjects :
+Mansion Tom on the searchbar, Chagnas Remy & Nguyen Sophie on the subscribe method  
 
-J'ai aidé le reste de l'équipe sur le fonctionnement des requêtes !!  
+And I helped them on the requests ! 
