@@ -41,12 +41,14 @@ export class ArticlesComponent implements OnInit {
       next: () => {
         this.articlesSubscription = this.articleService.getArticles().subscribe(
           {
-            next: value => this.articles = value
+            next: value => {
+              this.articles = value;
+              this.updateArticles();
+            }
           }
         );
       }
     });
-    this.updateArticles();
   }
 
   ngOnInit() {
